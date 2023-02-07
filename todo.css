@@ -1,0 +1,18 @@
+html {
+  font-family: sans-serif;
+}
+.done-true {
+    color: grey;
+  }
+h2 {
+  color: #143232;
+}  
+.btn-primary {
+  color: white;
+  background: #00b0b9;
+  border: none;
+  border-radius: 2px;
+}
+.checkbox {
+  accent-color: #00b0b9;
+}
